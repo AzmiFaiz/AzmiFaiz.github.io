@@ -1,2 +1,2 @@
 # AzmiFaiz.github.io
-Website Praktikkum Care
+Room for Web Static Testing purpose
